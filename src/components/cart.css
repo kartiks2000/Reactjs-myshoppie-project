@@ -1,0 +1,23 @@
+.checkout{
+    padding: 2rem;
+    background-color: palegoldenrod;
+}
+
+.red{
+    color: red;
+}
+
+.yellow{
+    color: goldenrod;
+}
+
+.green{
+    color: green;
+}
+
+.mbtn{
+    color: teal;
+    outline: none;
+    border-radius: 10px;
+    padding: .3rem;
+}

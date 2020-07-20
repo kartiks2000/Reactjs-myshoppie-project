@@ -1,0 +1,31 @@
+.cutit{
+    text-decoration: line-through;
+}
+
+.item{
+    border: 2px solid gray;
+    background-color: honeydew;
+    padding: 1rem;
+}
+
+.add-btn{
+    font-size: 1.2rem;
+    border-radius: 50rem;
+    padding: .3rem .6rem;
+    margin: .6rem;
+    color: orangered;
+    outline: none;
+}
+
+.add-btn:hover{
+    color: white;
+    background-color: orangered;
+}
+
+.name{
+    color: orangered;
+}
+
+.ourp{
+    color: gold;
+}

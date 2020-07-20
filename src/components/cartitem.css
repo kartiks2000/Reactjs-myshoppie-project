@@ -1,0 +1,54 @@
+.cartitem{
+    padding: 2px;
+    border: 2px solid orangered;
+    margin: .5rem;
+    background-color: peachpuff;
+    text-align: center;
+}
+
+.rmbtn{
+    display: block;
+    margin: 1rem auto;
+}
+
+.cutit{
+    text-decoration: line-through;
+    color: red;
+}
+
+.cbtn{
+    margin: 1rem;
+    width: 2rem;
+    height: 2rem;
+    background-color: powderblue;
+    font-size: 1.5rem;
+    outline: none;
+}
+
+.rbtn{
+    color: green;
+    border: 2px solid green;
+}
+
+.gbtn{
+    color: red;
+    font-size: 1.5rem;
+    border: 2px solid red;
+}
+
+.pname{
+    color: orangered;
+}
+
+.rmbtn{
+    font-size: 1.2rem;
+    color: red;
+    background-color: rgb(233, 140, 123);
+    outline: none;
+    border: 2px solid red;
+}
+
+.hil{
+    font-size: 1.5rem;
+    color: yellowgreen;
+}
